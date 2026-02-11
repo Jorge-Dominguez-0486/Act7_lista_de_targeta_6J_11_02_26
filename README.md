@@ -1,5 +1,6 @@
 # Act7_jldo_0486
-<img width="1264" height="421" alt="image" src="https://github.com/user-attachments/assets/faa36f8f-2b6c-487e-a80a-cecb815e9753" />
+<img width="584" height="492" alt="image" src="https://github.com/user-attachments/assets/08871449-cfe1-410f-962e-977fb39279af" />
+
 
 A new Flutter project.
 
